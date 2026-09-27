@@ -1,7 +1,7 @@
 % =========================================================================
 % Script de Simulación del Balance Energético Híbrido - Proyecto SIGE
 % Estudiante: Jojan Alejandro
-% Curso: Software para Ingeniería (203036)
+% Curso: Software para Ingeniería (203036_78)
 % Universidad Nacional Abierta y a Distancia (UNAD)
 % Descripción: Simulación analítica y dinámica de 24 horas (Solar, Eólica y Demanda)
 % =========================================================================
